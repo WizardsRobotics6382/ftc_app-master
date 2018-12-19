@@ -4,7 +4,7 @@ package org.firstinspires.ftc.teamcode;
         import android.app.Activity;
         import android.graphics.Color;
         import android.view.View;
-
+//emma is mean
         import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
         import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
         import com.qualcomm.robotcore.hardware.ColorSensor;
